@@ -6,5 +6,5 @@ require (
 	github.com/hazelcast/hazelcast-go-client <InputBranchName>
 )
 
-replace github.com/hazelcast/hazelcast-go-client <InputBranchName> => github.com/yuce/hazelcast-go-client handle-lost-invocation
+replace github.com/hazelcast/hazelcast-go-client <InputBranchName> => github.com/yuce/hazelcast-go-client fix-listeners
 
